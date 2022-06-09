@@ -1,4 +1,6 @@
-Alustuseks tegin baasfailid Moodle info järgi.
+Alustuseks tegin wp-content-->themes alla kausta.
+
+Siis tegin baasfailid Moodle info järgi ja siis aktiveerisin loodud teema.
 
 Eksami juhendi järgi tegin pildi lisamise funktsionaalsuse: https://developer.wordpress.org/themes/functionality/featured-images-post-thumbnails/
 
