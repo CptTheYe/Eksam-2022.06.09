@@ -14,6 +14,7 @@ Custom field võtmeteks said "amet" & "e-mail".
 
 Lisasin ettevõtte kohta nõuded jalusesse.
 
-Proovin tööle saada mitu postitust kõrvuti, aga ei taha õnnestuda. https://www.freecodecamp.org/news/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431/
+Leidsin hea lingi ja proovin tööle saada mitu postitust kõrvuti, aga ei tahtnud õnnestuda. 
+Link: https://www.freecodecamp.org/news/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431/
 
 Muutsin default stiilid ära.
