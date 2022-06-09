@@ -10,6 +10,7 @@ Probleemi lahendamiseks tõstsin the_post()'i div'i sisse.
 Määrasin div'ile klassi abil maksimum suuruse, taustavärvid ja ilusad nurgad.
 
 Igale postitusele said oma "Custom Fields"'id ja panin need tööle.
+Custom field võtmeteks said "amet" & "e-mail".
 
 Lisasin ettevõtte kohta nõuded jalusesse.
 
